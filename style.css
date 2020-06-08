@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Adieu Bold;
+    src: url(adieu-bold-webfont.woff);
+}
+
+@font-face {
+    font-family: Adieu Light;
+    src: url(adieu-light-webfont.woff);
+}
+
+body {
+	font-family: Arial;
+	font-size: 12px;
+	line-height: 1.5;
+	
+	background-color: #ffffff;
+	color: #0724FF;
+	margin: 0;
+}
+
+canvas {
+  vertical-align: bottom;
+}
